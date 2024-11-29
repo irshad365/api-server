@@ -1,0 +1,4 @@
+pip
+autopep8
+fastapi
+uvicorn
