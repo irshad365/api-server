@@ -2,6 +2,8 @@
 
 Welcome to the API server repository for my Flutter project! This server is designed to handle backend logic, provide data to the app, and support web and mobile platforms seamlessly.  
 
+https://medium.com/@irshad365/as-a-mobile-developer-i-had-no-idea-creating-a-api-server-with-python-was-so-easy-b2f51a337920
+
 ## Features  
 - Lightweight and fast API server built with Python (FastAPI).  
 - Auto-generated Swagger and ReDoc API documentation.  
