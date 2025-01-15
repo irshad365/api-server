@@ -1,4 +1,4 @@
-# API Server for Flutter Applications  
+# API Server
 
 Welcome to the API server repository for my Flutter project! This server is designed to handle backend logic, provide data to the app, and support web and mobile platforms seamlessly.  
 
